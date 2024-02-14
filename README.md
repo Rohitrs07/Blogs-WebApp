@@ -1,0 +1,1 @@
+This is a Blog Website based on React-Js with fully responsive UI.
